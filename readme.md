@@ -10,7 +10,7 @@ This repository contains a backend Flask server developed for processing transcr
 
 **Security Measures:** Various security layers have been incorporated to prevent the leakage of sensitive information and to filter out any inappropriate or offensive content.
 
-**Logging:**Detailed logs capture the API’s performance and resource usage. Logs are stored with timestamps and track memory consumption, execution time, and other performance metrics on a daily basis
+**Logging:** Detailed logs capture the API’s performance and resource usage. Logs are stored with timestamps and track memory consumption, execution time, and other performance metrics on a daily basis
 
 ## Workflow 
 ![image](https://github.com/user-attachments/assets/72a9b6d7-d952-4d42-8829-c7a3b09de366)
